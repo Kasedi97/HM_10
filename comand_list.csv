@@ -1,0 +1,78 @@
+    1  git status
+    2  ls
+    3  ls
+    4  cd
+    5  cd /c/users
+    6  ls
+    7  cd user
+    8  ls
+    9  cd OneDrive/
+   10  ls
+   11  cd Рабочий\ стол/
+   12  ls
+   13  cd Re
+   14  -c && rm`/.
+-c && rm`/.bash_history
+   15  -c && rm`/.
+-c && rm`/
+   16  -c && rm`/.
+-c && rm`/.
+   17  clear
+   18  git config --global user.name "Kasedi97"
+   19  git config --global user.email vladislav02041997@gmail.com
+   20  git clone https://github.com/Kasedi97/HM_10.git
+   21  ls
+   22  cd HM_10/
+   23  touch text_ignore.txt (touch)
+   24  touch file.txt  
+   25  git status
+   26  touch text_ignore.txt  
+   27  git status
+   28  git status
+   29  git add
+   30  git add .gitignore
+   31  git statusgit status
+   32  git add text_ignore.txt
+   33  git status
+   34  git commit -m "New file created"
+   35  git status
+   36  touch main_test.txt
+   37  git status
+   38  git add main_test.txt
+   39  git status
+   40  commit -m
+   41  commit
+   42  git status
+   43  commit -m  "New file created"
+   44  git commit -m  "New file created"
+   45  mkdir develop
+   46  checkout develop
+   47  ls
+   48  cd develop
+   49  git branch
+   50  ls
+   51  git status
+   52  cd C:\Users\User\OneDrive\Рабочий стол\RE\HM_10
+   53  cd ../
+   54  ls
+   55  git checkout -b develop
+   56  git branch
+   57  touch develop_test.txt
+   58  git add develop_test.txt
+   59  git status
+   60  git commit -m "Created new branch and new file"
+   61  git status
+   62  nano develop_test.txt 
+   63  git status
+   64  git add develop_test.txt 
+   65  git status
+   66  git commit -m "File change"
+   67  git status
+   68  ls
+   69  checkout main
+   70  git checkout main
+   71  ls
+   72  git merge develop
+   73  ls
+   74  git log
+   75  history>comand_list.csv
